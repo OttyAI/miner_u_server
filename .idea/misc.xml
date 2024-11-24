@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="miner_u_server" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="09320b52-d6f0-437f-854f-7d30b34d6d0d" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="miner_u_server" project-jdk-type="Python SDK" />
+</project>
